@@ -28,4 +28,5 @@
 ```env
 git clone https://github.com/joker-alt244/joker_bot
 cd joker_bot
+npm install
 npm start
