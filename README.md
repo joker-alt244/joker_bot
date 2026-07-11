@@ -1,8 +1,8 @@
-# 🔥 Joker Bot - Ultimate Telegram Automation Tool
+# 🔥 JOKER BOT - ULTIMATE TELEGRAM AUTOMATION TOOL
 
 **Powerful Telegram Bot with Firebase Integration | Mass Tools | API Abuse Ready**
 
-![Joker Bot](https://via.placeholder.com/800x400/FF0000/FFFFFF?text=JOKER+BOT)  
+![Joker Bot](https://files.catbox.moe/3nn6b5.png)
 *(Replace with your own image later)*
 
 ## 🚀 Features
