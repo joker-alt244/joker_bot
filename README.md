@@ -23,13 +23,9 @@
 - Firebase URL → Google Firebase Console
 - Owner ID → @userinfobot
 
-### 2. Environment Variables (.env)
+### 2. Start ( Bot )
 
 ```env
-API_ID=12345678
-API_HASH=abcdefghijklmnopqrstuvwxyz123456
-STRING_SESSION=1AgA...your_long_session...
-FIREBASE_URL=https://your-project-id-default-rtdb.firebaseio.com/botdb.json
-OWNER=705530419
-PORT=3000
-URL=https://your-bot.onrender.com
+git clone https://github.com/joker-alt244/joker_bot
+cd joker_bot
+npm start
