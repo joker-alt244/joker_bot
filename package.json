@@ -1,0 +1,37 @@
+{
+  "name": "TG-UBOT",
+  "version": "1.0.0",
+  "description": "A Telegram media downloader bot with abuse detection and logging",
+  "author": "SABIR7718",
+  "license": "ISC",
+  "type": "commonjs",
+  "main": "index.js",
+  "keywords": [
+    "telegram",
+    "bot",
+    "downloader",
+    "media",
+    "yt-search"
+  ],
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js",
+    "lint": "eslint .",
+    "test": "echo \"No tests yet\""
+  },
+  "dependencies": {
+    "@sabir7718/abuse-detector": "^1.0.1",
+    "@sabir7718/log": "latest",
+    "axios": "^1.16.0",
+    "telegram": "latest",
+    "dotenv": "latest",
+    "yt-search": "^2.13.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.0",
+    "eslint": "^9.0.0"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
